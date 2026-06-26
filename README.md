@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-Full-stack developer with 3+ years of experience building and maintaining web applications using PHP (Laravel), JavaScript (React, Express.js), SQL, and NoSQL. Experienced in delivering client-facing solutions in fast-paced environments, collaborating across teams, and supporting production systems.
+Full-stack developer with 3+ years of experience building and maintaining web applications using PHP (Laravel), JavaScript (React), and SQL. Experienced in delivering client-facing solutions in fast-paced environments, collaborating across teams, and supporting production systems.
 
 I value clean code, secure development, and continuous improvement.
 
