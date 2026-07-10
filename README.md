@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Julia  
 
-💻 Mid-Level Full-Stack Web Developer | 3+ Years Experience  
+💻 Full-Stack Web Developer | 3+ Years Experience  
 🚀 Building scalable, user-focused web applications  
 
 ---
